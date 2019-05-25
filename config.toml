@@ -1,0 +1,4 @@
+# config your deep learning model hear
+[gpu]
+type = "cuda"
+num = 0
